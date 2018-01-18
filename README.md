@@ -7,6 +7,10 @@ Improvements by [Chris Adams](http://www.cadams.com.au/), [Max Slabyak](https://
 
 ## Changelog ##
 
+**Version 1.7:**
+
+* Updated for Sitecore 9 by building against .Net Framework 4.6.2 and replacing LinkManager.Provider.GetDefaultUrlOptions() references to LinkManager.GetDefaultUrlOptions()
+
 **Version 1.6:**
 
 * Added a redirect type that is based on the rules engine
